@@ -1,3 +1,6 @@
+# 고려할점 코너 생성을 구분
+# 지나온 방향을 등록 해야할지? (3차원)
+
 from collections import deque
 dx = [-1,0,1,0]
 dy = [0,1,0,-1]
