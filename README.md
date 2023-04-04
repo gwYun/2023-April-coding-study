@@ -1,5 +1,5 @@
 # ✏️ **2023-April-coding-study**
-Contributors: [윤경원](https://github.com/gwYun) [이태훈](https://github.com/narangdghost) [전윤회](https://github.com/jeonyoonhoi) [정세훈](https://github.com/Likey7) [강수연](https://github.com/xjubep) [김동언](https://github.com/dong-onion) [장종욱](https://github.com/kowo1001)
+Contributors: [윤경원](https://github.com/gwYun) [이태훈](https://github.com/narangdghost) [전윤회](https://github.com/jeonyoonhoi) [정세훈](https://github.com/Likey7) [강수연](https://github.com/xjubep) [김동언](https://github.com/dong-onion)
 
 * 각자 이름으로 `📁 개인폴더`를 만들어 사용해주세요. 개인 폴더 내의 구조나 파일명은 개인의 편의에 따라 생성 및 관리합니다.
 * 문제 리스트는 [노션 내 커리큘럼](https://www.notion.so/4-1d8fe1b49ddc4c5f9886ea8793962358?pvs=4#6ad1b0e8470345c280a5377db9ee683f)을 확인해주세요.
