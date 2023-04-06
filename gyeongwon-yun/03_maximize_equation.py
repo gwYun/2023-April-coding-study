@@ -8,7 +8,6 @@ def solution(expression):
     ops = []
     temp = ''
 
-    
     # separate numbers and operators from expression
     for i, x in enumerate(expression):
         if x in numbers:
