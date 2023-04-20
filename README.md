@@ -21,7 +21,7 @@ Contributors: [윤경원](https://github.com/gwYun) [이태훈](https://github.c
 [⚾](https://www.acmicpc.net/problem/17281)
 
 **3주차:** 
-[튜플2019 카카오 개발자 겨울 인턴십](https://school.programmers.co.kr/learn/courses/30/lessons/64065) / 
+[호텔 방 배정2019 카카오 개발자 겨울 인턴십	](https://school.programmers.co.kr/learn/courses/30/lessons/64063) / 
 [불량 사용자2019 카카오 개발자 겨울 인턴십](https://school.programmers.co.kr/learn/courses/30/lessons/64064) / 
 [징검다리 건너기2019 카카오 개발자 겨울 인턴십](https://school.programmers.co.kr/learn/courses/30/lessons/64062)
 
