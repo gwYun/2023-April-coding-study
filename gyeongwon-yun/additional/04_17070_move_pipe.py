@@ -18,6 +18,11 @@ def solution(N, board):
                 dr, dc = (1, 0)
                 if 0 <= nr < N and 0 <= nc < N and board[nr][nc] != 1:
                     queue.append((nr, nc, nd))
+            
+            if cd != 'dd':
+                dr, dc = (0, 1)
+                if 0 <= nr < N and 0 <= nc < N and board[nr][nc] != 1:
+                    queue.append((nr, nc, nd))
 
             for nd in ['rr', 'rd', 'dd']:
                 dr, dc = directions[nd]
